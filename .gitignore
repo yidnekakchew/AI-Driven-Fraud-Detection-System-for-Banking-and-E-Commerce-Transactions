@@ -1,0 +1,71 @@
+# Byte-compiled files and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+week8-9/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+wheels/
+*.wheel
+pip-wheel-metadata/
+*.manifest
+*.spec
+
+# C extensions
+*.so
+
+# Logs and environment files
+*.log
+*.out
+*.err
+.env
+.env.*
+logging/
+
+# Unit test / coverage results
+.coverage
+*.cover
+.hypothesis/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.coveragerc
+
+# Data files and caches
+*.csv
+*.sqlite3
+*.db
+*.dat
+*.pkl
+*.h5
+*.parquet
+
+# Static files and reports
+htmlcov/
+site/
+
+# Editor and IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# sensitive data
+data/
+
